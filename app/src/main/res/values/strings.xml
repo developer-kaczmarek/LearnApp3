@@ -1,0 +1,47 @@
+<resources>
+
+    <string name="app_name">LearnApp3</string>
+    <string name="btn_delete">DELETE</string>
+    <string name="desc_btn_delete">Delete icon</string>
+
+    <string name="title_task1">Почитать книгу</string>
+    <string name="time_task1">09:30</string>
+    <string name="date_task1">2019/04/17</string>
+
+    <string name="title_task2">Сходить в магазин</string>
+    <string name="time_task2">14:30</string>
+    <string name="date_task2">2019/04/08</string>
+
+    <string name="title_task3">Сделать отчет</string>
+    <string name="time_task3">14:20</string>
+    <string name="date_task3">2019/04/06</string>
+
+    <string name="title_task4">Сдача проекта</string>
+    <string name="time_task4">14:20</string>
+    <string name="date_task4">2019/04/07</string>
+
+    <string name="title_task5">Поход в кино</string>
+    <string name="time_task5">22:30</string>
+    <string name="date_task5">2019/04/17</string>
+
+    <string name="title_task6">Залить на github проект</string>
+    <string name="time_task6">20:00</string>
+    <string name="date_task6">2018/04/09</string>
+
+    <string name="title_task7">Встретиться с дизайнером</string>
+    <string name="time_task7">17:00</string>
+    <string name="date_task7">2019/04/06</string>
+
+    <string name="title_task8">Купить обои</string>
+    <string name="time_task8">18:40</string>
+    <string name="date_task8">2019/04/07</string>
+
+    <string name="title_task9">Убраться</string>
+    <string name="time_task9">12:30</string>
+    <string name="date_task9">2019/04/06</string>
+
+    <string name="title_task10">Купить обои</string>
+    <string name="time_task10">18:40</string>
+    <string name="date_task10">2018/05/13</string>
+
+</resources>
